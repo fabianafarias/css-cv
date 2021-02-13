@@ -1,1 +1,1 @@
-This site was made in the Angela Yu's Bootcamp at Udemy with CSS.
+My CV made with HTML and CSS.
